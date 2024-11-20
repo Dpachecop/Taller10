@@ -1,4 +1,4 @@
-package Taller10.Uso_incorrecto.Definir_sin_override;
+
 
 public class Coche extends Vehiculo {
     // Método sobrescrito sin usar @Override

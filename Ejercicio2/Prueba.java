@@ -1,4 +1,4 @@
-package Taller10.Ejercicio2;
+
 
 public class Prueba {
    
